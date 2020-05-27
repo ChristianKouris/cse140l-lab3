@@ -1,0 +1,1 @@
+I do not believe that everything worked as expected. When comparing the transcript to the expected output, it is different but I do not know where the program goes wrong. It should be correct and comparing to the tb values, it seems to match up.
