@@ -2,6 +2,6 @@
 
 Lab 3 of CSE 140L
 
-The top module is struct_diag and the its file is struct_diag.sv
+The top module is traffic_light_controller and the its file is traffic_light_controller.sv
 
-The testbench is lab2_tb.sv
+The testbench is traffic_tb.sv
